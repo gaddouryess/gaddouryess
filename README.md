@@ -156,7 +156,14 @@ val yessine = Developer(
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yessine-gaddour&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=FB7185&currStreakLabel=A78BFA&sideLabels=7C3AED&dates=5C5878)](https://git.io/streak-stats)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gaddouryess&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaddouryess&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="180" src="https://streak-stats.demolab.com?user=gaddouryess&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -176,11 +183,11 @@ val yessine = Developer(
 
 ---
 
-## 🎯 &nbsp;2026 Roadmap
+## 🎯 &nbsp;Roadmap
 
 ```
   ┌─────────────────────────────────────────────────────┐
-  │                   2026 GOALS                        │
+  │                   GOALS                        │
   ├─────────────────────────────────────────────────────┤
   │  🏆  Reach Codeforces Specialist → Expert rank      │
   │  🍃  Master Spring Microservices & Docker           │
