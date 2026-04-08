@@ -16,7 +16,6 @@
 
 ---
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding gif"/>
 
 ## 👨‍💻 &nbsp;About Me
 
